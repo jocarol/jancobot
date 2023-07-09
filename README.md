@@ -1,4 +1,5 @@
-![alt text](https://i.imgur.com/3hgDsT0.png)
+<img src="https://i.imgur.com/3hgDsT0.png" width="200" height="200" align="center"/>
+
 # JancoBot
 A chatbot that is leveraging GPT-4, Langchain Framework and StreamLit to simulate a convo with Jean-Marc Jancovici
 
